@@ -38,4 +38,4 @@ This project allows users to upload receipt images, automatically extracts relev
 
 Check `docs/setup-guide.md`
 
-## 📂 Project Structure
+
